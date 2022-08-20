@@ -11,7 +11,7 @@ int main()
   
   printf("%ld\n", strlen(str1));
   printf("%ld\n", strlen(str2));
-  printf("%d", strlen(ptr_str));
+  printf("%ld\n", strlen(ptr_str));
   
     return 0;
 }
